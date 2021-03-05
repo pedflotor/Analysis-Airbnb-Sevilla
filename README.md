@@ -27,7 +27,7 @@ This is the Airbnb data that will be used for the analysis:
 4. [(```neighbourhoods.csv```)](neighbourhoods.csv): List with the neighbourhoods of Sevilla
 
 ## Article of the project
-+ 
++ https://petanth91.medium.com/sevilla-the-city-with-a-special-colour-697e4320d377
 
 ## Acknowledgements
 + https://en.wikipedia.org/wiki/Seville
